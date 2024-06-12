@@ -4,13 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title>Vara Prasad Melipaka- Home Page</title>
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies Pvt Ltd. Ph No: +91-9980923226, +91-9980923216, +91-9900012028  Bengaluru,Karnataka,India.</h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect in Bangalore India.Teaching Real Time scnerios</h1>
+<h1 align="center">I am VARA. Welcome to My Web Page Ph No: +91-6301460166,Rajahmundry,Andhra Pradesh,India</h1>
+<h1 align="center"> I am currently learning DevOps with AWS & AWS Solution Architect & Terraform. Learning Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -30,25 +29,22 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <%out.print( "Client Name Host :: "+ request.getRemoteHost() );%><br></h1>
 <hr>
 <div style="text-align: center;">
-	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
-	</span>
+	
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
-		+91-9980923226,+91-9900012028
-		devopstrainingblr@gmail.com
+		Vara Prasad, 
+		Palacharla, Rajahmundry,
+		Andhra Pradesh,
+		+91-6301460166
+		mlvvvprasad@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:mlvvvprasad@gmail.com">Mail to Vara Prasad</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<p align=center>Vara Prasad Melipaka.</p>
 
 </body>
 </html>
